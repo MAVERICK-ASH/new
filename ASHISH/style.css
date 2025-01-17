@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border: 2px dashed black
+}
+table,th,td{
+    border:1px solid black;
+    width: 450px;
+    height:50px;
+    margin: auto;
+    background-color:aquamarine;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-bottom:2rem ;
+}
+.ash{
+    border: 10px solid black;
+   margin: 1px;
+   padding: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color:palegreen ;
+
+}
